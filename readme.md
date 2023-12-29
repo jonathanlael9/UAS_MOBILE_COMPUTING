@@ -1,4 +1,4 @@
-Nama : Jonathan Lael Aruan
+Nama : Jonathan Lael Aruan \n
 NIM : 1313621006
 UAS MOBILE COMPUTING
 APLIKASI NOTES/CATATAN 
